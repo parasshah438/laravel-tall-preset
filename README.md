@@ -11,7 +11,11 @@
 
 TALL(Tailwind CSS, Alpine.js, Laravel, and Livewire) Preset for Laravel
 
-## packages
+## Package
 
 > composer require livewire/livewire laravel-frontend-presets/tall
+
 > php artisan ui tall --auth
+
+
+<img src="https://github.com/parasshah438/laravel-tall-preset/blob/master/public/images/layout.PNG">
